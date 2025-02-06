@@ -35,3 +35,13 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 ### 1.17. Asignación de nombres a elementos de una tupla (collections.namedtuple)
 ### 1.18. Transdformar y reducir datos al mismo tiempo (generadores de expresiones max, min, sum)
 ### 1.19. Combinar múltiples mapeos en un solo mapeo (collections.ChainMap)
+
+# Capitulo 2 (Strings and Text)
+
+## cap2-1-5.ipynb
+
+### 2.1 División de cadenas en cualquiera de los delimitadores múltiplesas
+### 2.2 Coincidencia de texto al principio o al final de una cadena (str.startswith, str.endswith)
+### 2.3 Coincidencia de cadenas mediante patrones de comodines de Shell (fnmatch)
+### 2.4 Coincidencia de cadenas mediante (str.find, str.endswith, str.startswith)
+### 2.5 Buscar y reemplazar texto (str.replace, re.sub, re.subn)
