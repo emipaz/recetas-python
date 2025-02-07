@@ -38,10 +38,21 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 
 # Capitulo 2 (Strings and Text)
 
-## cap2-1-5.ipynb
+## cap2-1-6.ipynb
 
 ### 2.1 División de cadenas en cualquiera de los delimitadores múltiplesas
 ### 2.2 Coincidencia de texto al principio o al final de una cadena (str.startswith, str.endswith)
 ### 2.3 Coincidencia de cadenas mediante patrones de comodines de Shell (fnmatch)
 ### 2.4 Coincidencia de cadenas mediante (str.find, str.endswith, str.startswith)
 ### 2.5 Buscar y reemplazar texto (str.replace, re.sub, re.subn)
+### 2.6 Búsqueda y reemplazo de texto sin distinción entre mayúsculas y minúsculas (re.IGNORECASE)
+
+## cap2-7-13.ipynb
+
+### 2.7 Especificar una expresión regular para la coincidencia mas corta
+### 2.8 Escribir una expresión regular para patrones de varias línea
+### 2.9 Normalizar texto Unicode para comparación o impresión (unicodedata.normalize)
+### 2.10 Eliminar signos de puntuación de texto (str.translate)
+### 2.11 Eliminación de caracteres no deseados
+### 2.12 Desinfectar y limpiar el texto
+### 2.13 Alinear cadenas de texto
