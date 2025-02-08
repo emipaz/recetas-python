@@ -2,57 +2,66 @@
 
 Basados en el libro de recetas de Python de David Beazley, este repositorio contiene ejemplos de código y ejercicios para aprender Python.
 
-# Capitulo 1
+## Capitulo 1
 
-## cap1-1-5.ipynb
+### cap1-1-5.ipynb
 
-### 1.1. Desempaquetamiento de variables
-### 1.2. Desempaquetar elementos de iterables de longitud arbitraria
-### 1.3. Mantener la última N líneas (colas de collections.deque)
-### 1.4. Encontrar los elementos más grandes o más pequeños (heapq)
-### 1.5. Cola Prioritaria
+#### 1.1. Desempaquetamiento de variables
+#### 1.2. Desempaquetar elementos de iterables de longitud arbitraria
+#### 1.3. Mantener la última N líneas (colas de collections.deque)
+#### 1.4. Encontrar los elementos más grandes o más pequeños (heapq)
+#### 1.5. Cola Prioritaria
 
-## cap1-6-12.ipynb
+### cap1-6-12.ipynb
 
-### 1.6 Asignacion de claves de varios valores a un diccionario (Multidict usandop collections.defaultdict)
-### 1.7. Mantener los diccionarien en orden (collections.OrderedDict)
-### 1.8. Calculando con diccionarios (zip, min, max)
-### 1.9. Encontrar puntos en común en dos diccionarios (keys, items) uso de operaciones de conjuntos & | -
-### Encontrar numeros impares que no son primos usando conjuntos por comprensión
-### 1.10 Eliminando duplicados de una secuencia manteniendo el orden (hashable)
-### 1.11. Nombrar un slice (slice)
-### 1.12. Determinar los elementos más frecuentes en una secuencia (collections.Counter)
+#### 1.6 Asignacion de claves de varios valores a un diccionario (Multidict usandop collections.defaultdict)
+#### 1.7. Mantener los diccionarien en orden (collections.OrderedDict)
+#### 1.8. Calculando con diccionarios (zip, min, max)
+#### 1.9. Encontrar puntos en común en dos diccionarios (keys, items) uso de operaciones de conjuntos & | -
+#### Encontrar numeros impares que no son primos usando conjuntos por comprensión
+#### 1.10 Eliminando duplicados de una secuencia manteniendo el orden (hashable)
+#### 1.11. Nombrar un slice (slice)
+#### 1.12. Determinar los elementos más frecuentes en una secuencia (collections.Counter)
 
-## cap1-13-16.ipynb
+### cap1-13-16.ipynb#
 
-### 1.13. Ordenar una lista de diccionarios por un campo común (operator.itemgetter)
-### 1.14. Ordenar objetos sin soporte a comparación (attrgetter)
-### 1.15. Agrupar registros por campos de interés (itertools.groupby)
-### 1.16. Filtrar elementos de una secuencia (comprensión de listas y itertools.compress)
+#### 1.13. Ordenar una lista de diccionarios por un campo común (operator.itemgetter)
+#### 1.14. Ordenar objetos sin soporte a comparación (attrgetter)
+#### 1.15. Agrupar registros por campos de interés (itertools.groupby)
+#### 1.16. Filtrar elementos de una secuencia (comprensión de listas y itertools.compress)
 
-## cap1-17-19.ipynb
+### cap1-17-19.ipynb
 
-### 1.17. Asignación de nombres a elementos de una tupla (collections.namedtuple)
-### 1.18. Transdformar y reducir datos al mismo tiempo (generadores de expresiones max, min, sum)
-### 1.19. Combinar múltiples mapeos en un solo mapeo (collections.ChainMap)
+#### 1.17. Asignación de nombres a elementos de una tupla (collections.namedtuple)
+#### 1.18. Transdformar y reducir datos al mismo tiempo (generadores de expresiones max, min, sum)
+#### 1.19. Combinar múltiples mapeos en un solo mapeo (collections.ChainMap)
 
-# Capitulo 2 (Strings and Text)
+## Capitulo 2 (Strings and Text)
 
-## cap2-1-6.ipynb
+### cap2-1-6.ipynb
 
-### 2.1 División de cadenas en cualquiera de los delimitadores múltiplesas
-### 2.2 Coincidencia de texto al principio o al final de una cadena (str.startswith, str.endswith)
-### 2.3 Coincidencia de cadenas mediante patrones de comodines de Shell (fnmatch)
-### 2.4 Coincidencia de cadenas mediante (str.find, str.endswith, str.startswith)
-### 2.5 Buscar y reemplazar texto (str.replace, re.sub, re.subn)
-### 2.6 Búsqueda y reemplazo de texto sin distinción entre mayúsculas y minúsculas (re.IGNORECASE)
+#### 2.1 División de cadenas en cualquiera de los delimitadores múltiplesas
+#### 2.2 Coincidencia de texto al principio o al final de una cadena (str.startswith, str.endswith)
+#### 2.3 Coincidencia de cadenas mediante patrones de comodines de Shell (fnmatch)
+#### 2.4 Coincidencia de cadenas mediante (str.find, str.endswith, str.startswith)
+#### 2.5 Buscar y reemplazar texto (str.replace, re.sub, re.subn)
+#### 2.6 Búsqueda y reemplazo de texto sin distinción entre mayúsculas y minúsculas (re.IGNORECASE)
 
-## cap2-7-13.ipynb
+### cap2-7-13.ipynb
 
-### 2.7 Especificar una expresión regular para la coincidencia mas corta
-### 2.8 Escribir una expresión regular para patrones de varias línea
-### 2.9 Normalizar texto Unicode para comparación o impresión (unicodedata.normalize)
-### 2.10 Eliminar signos de puntuación de texto (str.translate)
-### 2.11 Eliminación de caracteres no deseados
-### 2.12 Desinfectar y limpiar el texto
-### 2.13 Alinear cadenas de texto
+#### 2.7 Especificar una expresión regular para la coincidencia mas corta
+#### 2.8 Escribir una expresión regular para patrones de varias línea
+#### 2.9 Normalizar texto Unicode para comparación o impresión (unicodedata.normalize)
+#### 2.10 Eliminar signos de puntuación de texto (str.translate)
+#### 2.11 Eliminación de caracteres no deseados
+#### 2.12 Desinfectar y limpiar el texto
+#### 2.13 Alinear cadenas de texto
+
+### cap2-14-15.ipynb
+
+#### 2.14 Combinar y concatenar cadenas (str.join)
+#### 2.15 Interpolación de variables en cadenas (str.format, format_map , vars() , \_\_missing\_\_ , sys._getframe() )
+
+### token_expr.ipynb
+
+#### Tokenización de texto con re.comipile y sus metodos scaner y search
