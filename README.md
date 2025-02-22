@@ -61,7 +61,9 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 
 #### 2.14 Combinar y concatenar cadenas (str.join)
 #### 2.15 Interpolación de variables en cadenas (str.format, format_map , vars() , \_\_missing\_\_ , sys._getframe() )
+### 2.16 Camnio de formato de texto a un numero fijo de columnas (Textwrap.fill)
+### 2.17 Manejo de HTML y XML (html.escape, html.unescape)
+### 2.18 Tokenización de texto (re.scaner.search) token_expr.ipynb
+### 2.19 Escribir un analizador de descenso recursivo simple ()
+### 2.20 Realización de operaciones de texto en cadenas de bytes (bytes, bytearray, startwith, endswith, split, replace, re)
 
-### token_expr.ipynb
-
-#### Tokenización de texto con re.comipile y sus metodos scaner y search
