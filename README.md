@@ -76,3 +76,10 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 #### 3.3 Formateo de números para salida (format)
 #### 3.4 TTrabajar con Enteros binario, octal y hexadecimal (bin, oct, hex)
 #### 3.5 Empaquetado y desempaquetado de números enteros grandes a partir de bytes
+
+### cap3-6-9.ipynb
+
+#### 3.6 Trabajando con números complejos (complex)
+#### 3.7 Trabajar con Infinity y NaNs (float, math.isinf, math.isnan)
+#### 3.8 Calcular con fracciones (Fraction)
+#### 3.9 Calcular con grandes arreglos (numpy)
