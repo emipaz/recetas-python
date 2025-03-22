@@ -67,3 +67,12 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 ### 2.19 Escribir un analizador de descenso recursivo simple ()
 ### 2.20 Realización de operaciones de texto en cadenas de bytes (bytes, bytearray, startwith, endswith, split, replace, re)
 
+## Capitulo 3 (Numbers, Dates, and Times)
+
+### cap3-1-5.ipynb
+
+#### 3.1 Redondeo de números (round)
+#### 3.2 Realizar cálculos decimales precisos (Decimal)
+#### 3.3 Formateo de números para salida (format)
+#### 3.4 TTrabajar con Enteros binario, octal y hexadecimal (bin, oct, hex)
+#### 3.5 Empaquetado y desempaquetado de números enteros grandes a partir de bytes
