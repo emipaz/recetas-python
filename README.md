@@ -93,3 +93,10 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 
 #### Breve recorrido por las funciones de numpy
 
+### cap3-12-16.ipynb
+
+#### 3.12 Conversión de días a segundos y Conversiones básicos a otro tiempo (timedelta)
+#### 3.13 Realizar cálculos con fechas y horas (datetime clendar)
+#### 3.14 Encontrar el rango de fechas para el mes actual 
+#### 3.15 Conversión de cadenas en fechas y horas ()strptime)
+#### 3.16 Manipulación de fechas que involucran zonas horarias (pytz)
