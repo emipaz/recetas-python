@@ -100,3 +100,15 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 #### 3.14 Encontrar el rango de fechas para el mes actual 
 #### 3.15 Conversión de cadenas en fechas y horas ()strptime)
 #### 3.16 Manipulación de fechas que involucran zonas horarias (pytz)
+
+## Capitulo 4 (Iterators and Generators)
+
+### cap4-1-7.ipynb
+
+#### 4.1 Consumir manualmente un iterador (next)
+#### 4.2 Delegar iteración (__iter__ method)
+#### 4.3 Creación de nuevos patrones de iteración con generadores
+#### 4.4 Implementación del protocolo de iterador (from yield)
+#### 4.5 Iterando al revés
+#### 4.6 Definición de funciones de generador con estado adicional
+#### 4.7 Tomando un Slice de un iterador (itertools.islice)

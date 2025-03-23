@@ -1,0 +1,12 @@
+Este es un archivo de ejemplo.
+Contiene varias lineas de texto.
+Algunas lineas pueden ser mas largas que otras.
+Esta es una prueba de texto para evaluar el script.
+Espero que funcione correctamente.
+Vamos a agregar mas lineas para observar el comportamiento.
+Cada linea tiene su propio numero.
+El script debe recorrer estas lineas y almacenar un historial.
+Si todo funciona bien, veremos las lineas anteriores cuando encontremos una palabra clave.
+Este archivo es solo un ejemplo para pruebas.
+El contenido no es importante, solo la estructura.
+Fin del archivo de prueba.
