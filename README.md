@@ -83,3 +83,12 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 #### 3.7 Trabajar con Infinity y NaNs (float, math.isinf, math.isnan)
 #### 3.8 Calcular con fracciones (Fraction)
 #### 3.9 Calcular con grandes arreglos (numpy)
+
+### cap3-10-11.ipynb
+
+#### 3.10 Realización de cálculos de álgebra lineal y matricial (numpy matrix)
+#### 3.11 Escoger cosas al azar (Ramndom)
+
+### cap3-anexo-numpy.ipynb
+
+#### Breve recorrido por las funciones de numpy
