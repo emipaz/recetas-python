@@ -92,3 +92,4 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 ### cap3-anexo-numpy.ipynb
 
 #### Breve recorrido por las funciones de numpy
+
