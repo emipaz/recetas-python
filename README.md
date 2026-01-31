@@ -112,3 +112,27 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 #### 4.5 Iterando al revés
 #### 4.6 Definición de funciones de generador con estado adicional
 #### 4.7 Tomando un Slice de un iterador (itertools.islice)
+
+### cap4-8-10.ipynb
+
+#### 4.8 Saltarse la primera parte de un iterable (itertools.dropwhile, itertools.islice)
+- Ventajas de islice vs slice nativo
+- dropwhile para saltar elementos basándose en una condición
+- islice para trabajar eficientemente con generadores e iterables grandes
+
+#### 4.9 Iterando todas las combinaciones posibles o Permutaciones
+- itertools.permutations - Generar todas las permutaciones
+- itertools.combinations - Generar combinaciones
+- itertools.combinations_with_replacement - Combinaciones con repetición
+
+#### 4.10 Iterando sobre los pares índice-valor de una secuencia
+- enumerate() - Rastrear índice durante iteración
+- enumerate() con valor de inicio personalizado
+- Uso de enumerate() para rastrear números de línea en archivos
+
+#### 4.11 Iterando sobre varias secuencias simultáneamente
+- zip() - Iterar sobre múltiples secuencias en paralelo
+- zip() con strict=True (Python 3.10+) - Validar longitudes iguales
+- itertools.zip_longest() - Iterar hasta la secuencia más larga
+- Uso de fillvalue en zip_longest()
+
