@@ -136,3 +136,74 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 - itertools.zip_longest() - Iterar hasta la secuencia más larga
 - Uso de fillvalue en zip_longest()
 
+### cap4-11-15-walrus-match-case.ipynb
+
+#### 4.11 Iterando en elementos en contenedores separados
+- itertools.chain() - Encadenar múltiples iterables
+- Simplificar bucles anidados sin perder legibilidad
+- Usar chain() con múltiples iterables como argumentos
+
+#### 4.12 Crear canalizaciones de procesamiento de datos
+- Funciones generador para implementar canalizaciones
+- gen_find() - Encontrar archivos con patrones
+- gen_opener() - Abrir archivos detectando formato (GZ, BZ2, ZIP)
+- gen_concatenate() - Encadenar múltiples iteradores
+- gen_grep() - Filtrar líneas con expresiones regulares
+- Procesar archivos muy grandes sin cargar todo en memoria
+
+#### 4.13 Aplanar una secuencia anidada
+- Funciones generador recursivas
+- flatten() - Aplanar listas anidadas
+- flatten2() - Versión con collections.abc.Iterable
+- yield from para delegar a subgeneradores
+- Ignorar tipos específicos (strings, bytes)
+
+#### 4.14 Iterando en orden clasificado sobre combinadas clasificadas Iterables
+- heapq.merge() - Fusionar secuencias ordenadas
+- Mantener orden sin necesidad de ordenar todo
+- Procesamiento eficiente de archivos ordenados
+
+#### 4.15 Modernización para Python 3.8+
+- Pathlib vs os.path - Manejo orientado a objetos de rutas
+- Operador Walrus (:=) - Asignación en expresiones
+- Pattern Matching con match-case (Python 3.10+)
+- Type Hints modernos (Python 3.9+)
+- Comparativa de características por versión de Python
+
+## Archivos Comprimidos (Utilidad adicional)
+
+### archivos_comprimidos_python.ipynb
+
+Guía completa para trabajar con archivos comprimidos usando Python (TAR.GZ, ZIP, RAR)
+
+#### Temas cubiertos:
+
+##### TAR.GZ
+- Crear archivos TAR.GZ (tarfile.open)
+- Listar contenido sin extraer
+- Extraer archivos
+- Procesar en memoria sin extraer a disco
+
+##### ZIP
+- Crear archivos ZIP (zipfile.ZipFile)
+- Listar contenido con información de compresión
+- Extraer archivos
+- Procesar en memoria
+
+##### RAR
+- Listar contenido (requiere rarfile)
+- Extraer archivos
+- Manejo de errores
+
+##### Funciones Universales
+- universal_listar() - Detecta formato automáticamente
+- universal_extraer() - Extrae cualquier formato
+- Comparativa exhaustiva de formatos
+- Cuándo usar cada formato
+
+##### Características principales:
+- Procesar archivos **en memoria** sin extraer a disco
+- Listar contenido **sin extraer**
+- Detectar formato automáticamente
+- Herramienta CLI lista para usar
+- Ejemplos prácticos con archivos de prueba
