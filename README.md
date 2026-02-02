@@ -170,6 +170,10 @@ Basados en el libro de recetas de Python de David Beazley, este repositorio cont
 - Type Hints modernos (Python 3.9+)
 - Comparativa de características por versión de Python
 
+#### Iterador Personalizado Reutilizable: `Rango`
+- ver Detalles en README_RANGO.md
+
+
 ## Archivos Comprimidos (Utilidad adicional)
 
 ### archivos_comprimidos_python.ipynb
