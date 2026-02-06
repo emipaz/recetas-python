@@ -1,0 +1,4 @@
+De manera similar, para escribir un archivo de texto, 
+use open () con el modo wt para escribir un archivo, 
+borrando y sobrescribiendo el contenido anterior (si lo hubiera).
+Por ejemplo:
