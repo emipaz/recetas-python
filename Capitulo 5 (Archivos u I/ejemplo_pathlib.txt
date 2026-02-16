@@ -1,2 +1,1 @@
-Hola desde pathlib!
-Segunda línea.
+Contenido de ejemplo
